@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Microsoft.Win32; //写入注册表时要用到
+using Microsoft.Win32;
 namespace VolControl
 {
     public partial class VolControl : Form
